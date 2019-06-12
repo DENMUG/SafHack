@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SafHackathon</string>
+    <string name="repayment_hint">Repayment(1–4 months)</string>
+    <string name="amount_hint">Enter Starting Amount</string>
+</resources>
